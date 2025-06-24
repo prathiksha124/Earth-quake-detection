@@ -11,7 +11,7 @@ import time
 # Initialize Firebase
 cred = credentials.Certificate("serviceAccountKey.json")  # Download from Firebase Console
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://earthquake-detection-6646b-default-rtdb.asia-southeast1.firebasedatabase.app/'
+    'databaseURL': 'i removed this databaseurl secret'
 })
 
 # Load or train model
