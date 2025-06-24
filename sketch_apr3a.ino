@@ -10,8 +10,8 @@ const char* ssid ="Prathiksha";
 const char* password ="0987654321";
 
 
-#define FIREBASE_HOST "earthquake-detection-6646b-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "AIzaSyCFrFpvlizFPX4VJ5HD35aqNQ_C6XFT5sY"
+#define FIREBASE_HOST "removed due to risk"
+#define FIREBASE_AUTH ""
 
 
 FirebaseData fbdo;
