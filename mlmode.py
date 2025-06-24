@@ -13,11 +13,11 @@ scaler = joblib.load('scaler.pkl')
 
 # Firebase configuration
 config = {
-    "apiKey": "AIzaSyCFrFpvlizFPX4VJ5HD35aqNQ_C6XFT5sY",
-    "authDomain": "earthquake-detection-6646b.firebaseapp.com",
-    "databaseURL": "https://earthquake-detection-6646b-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "storageBucket": "earthquake-detection-6646b.firebasestorage.app",
-    "serviceAccount": "path/to/serviceAccountKey.json"  # Make sure this file is in your project directory
+    "apiKey": " i removed api secret",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": "",
+    "serviceAccount": ""  # Make sure this file is in your project directory
 }
 
 # Initialize Firebase
